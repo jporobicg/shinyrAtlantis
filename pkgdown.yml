@@ -1,0 +1,9 @@
+pandoc: 2.7.3
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles: {}
+last_built: 2021-06-10T22:27Z
+urls:
+  reference: https://Atlantis-Ecosystem-Model.github.io/shinyrAtlantis//reference
+  article: https://Atlantis-Ecosystem-Model.github.io/shinyrAtlantis//articles
+
